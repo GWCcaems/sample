@@ -70,4 +70,14 @@ button.onclick = function chooseArea () {
 	
 }
 
+<script>
+	function preloadimages () {
+	objimage.src='images/menu bar 1.png'
+	objimage.src='images/menu bar 2.png'
+	objimage.src='images/menu bar 3.png'
+	objimage.src='images/menu bar 4.png'
+	objimage.src='images/menu bar 5.png'
+}
+</script>
+	
 
